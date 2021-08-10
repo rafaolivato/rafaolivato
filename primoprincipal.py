@@ -25,7 +25,7 @@ def éPrimo(k):
  
  
 def maior_primo(k):
-    x = k - 1
+    x = k
     while not éPrimo(x):
         x = x - 1
     return x
