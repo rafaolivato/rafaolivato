@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rafaolivato
 - 👀 I’m interested in computing, pharmacy and tennis.
+- # I´ve started to study C#
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on your and my projects. 
 - 📫 How to reach me: rafaolivato82@gmail.com
